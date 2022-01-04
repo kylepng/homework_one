@@ -1,2 +1,2 @@
-# homework_one
-// homework number one for UCI coding bootcamp. 
+# About this assignment: 
+ homework number one for UCI coding bootcamp. 
